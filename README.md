@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="left">Bonjour / Hi !👋🏻 I'm arceus.</h1>
 
-<!--
-**blurwind/blurwind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">A young developer who lives in Canada 🇨🇦 and dabbles in a bit of everything.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About Me  📝</h2>
+
+###
+
+<p align="left">I started writing my first lines of code in 2020, but I've only really started getting interested since the summer of 2023.<br>I mainly use JavaScript and Python, but I also have some knowledge of C.<br>Since the summer of 2023, I've been spending a lot of time coding my own Discord bot, <a href="https://daily-music.xyz">Daily Music.</a><br>I speak both 🇫🇷 and 🇬🇧 fluently, and also some 🇪🇸</p>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+</div>
+
+
+###
+
+<h2 align="left">My Projects ☄️</h2>
+
+###
+
+<p align="left">・ <a href="https://daily-music.xyz">Daily Music</a>, my own Discord bot, used on 580 servers by over 200,000 users.<br>・ <a href="https://discord.watch">Discord.Watch</a>, I'm helping to create the next version of the website.<br>・ <a href="https://github.com/Discord-AntiScam">The DSP Project</a>, I'm conducting scam investigations and preventing scams on Discord.</p>
