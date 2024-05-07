@@ -29,4 +29,4 @@
 
 ###
 
-<p align="left">・ <a href="https://daily-music.xyz">Daily Music</a>, my own Discord bot, used on 610 servers by over 205,000 users.<br>・ <a href="https://discord.watch">Discord.Watch</a>, I'm helping to create the next version of the website.<br>・ <a href="https://github.com/Discord-AntiScam">The DSP Project</a>, I'm conducting scam investigations and preventing scams on Discord.</p>
+<p align="left">・ <a href="https://daily-music.xyz">Daily Music</a>, my own Discord bot, used on 620 servers by over 206,000 users.<br>・ <a href="https://discord.watch">Discord.Watch</a>, I'm helping to create the next version of the website.<br>・ <a href="https://github.com/Discord-AntiScam">The DSP Project</a>, I'm conducting scam investigations and preventing scams on Discord.</p>
