@@ -1,17 +1,16 @@
-<h1 align="left">Bonjour / Hi !👋🏻 I'm arceus.</h1>
-
-###
-
-<p align="left">A young developer who lives in Canada 🇨🇦 and dabbles in a bit of everything.</p>
-
-###
-
-<h2 align="left">About Me  📝</h2>
-
-###
-
-<p align="left">I started writing my first lines of code in 2020, but I've only really started getting interested since the summer of 2023.<br>I mainly use JavaScript and Python, but I also have some knowledge of C.<br>Since the summer of 2023, I've been spending a lot of time coding my own Discord bot, <a href="https://daily-music.xyz">Daily Music.</a><br>I speak both 🇫🇷 and 🇬🇧 fluently, and also some 🇪🇸</p>
-
+<h1 align="left">Bonjour / Hi!👋🏻 I'm arceus.
+</h1>
+<p align="left">A young developer who lives in Canada 🇨🇦 and dabbles in a bit of everything.
+</p>
+<h2 align="left">About Me  📝
+</h2>
+<p align="left">I started writing my first lines of code in 2020, but I've only really started getting interested since the summer of 2023.
+  <br>I mainly use JavaScript and Python, but I also have some knowledge of C.
+  <br>Since the summer of 2023, I've been spending a lot of time coding my own Discord bot, 
+  <a href="https://daily-music.xyz">Daily Music.
+  </a>
+  <br>I speak both 🇫🇷 and 🇬🇧 fluently, and also some 🇪🇸
+</p>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -21,12 +20,18 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
-
-
-###
-
-<h2 align="left">My Projects ☄️</h2>
-
-###
-
-<p align="left">・ <a href="https://daily-music.xyz">Daily Music</a>, my own Discord bot, used on 640 servers by over 206,000 users.<br>・ <a href="https://discord.watch">Discord.Watch</a>, I'm helping to create the next version of the website.<br>・ <a href="https://github.com/Discord-AntiScam">The DSP Project</a>, I'm conducting scam investigations and preventing scams on Discord.</p>
+<h2 align="left">My Projects ☄️
+</h2>
+<p align="left">・ 
+  <a href="https://daily-music.xyz">Daily Music
+  </a>, my own Discord bot, used on 680 servers by over 214,000 users.
+  <br>・ 
+  <a href="https://top.gg/bot/1247269790993879200">My UFC
+  </a>, my second Discord bot, kinda new.
+  <br>・ 
+  <a href="https://discord.watch">Discord.Watch
+  </a>, I'm helping to create the next version of the website.
+  <br>・ 
+  <a href="https://github.com/Discord-AntiScam">The DSP Project
+  </a>, I'm conducting scam investigations and preventing scams on Discord.
+</p>
