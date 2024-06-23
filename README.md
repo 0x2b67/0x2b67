@@ -27,7 +27,7 @@
   </a>my first Discord bot, used on 730 servers by over 215,000 users.
   <br>・ 
   <a href="https://top.gg/bot/1247269790993879200">My UFC,
-  </a>my second Discord bot, used on 50 servers by over 7,000 users.
+  </a>my second Discord bot, used on 50 servers by over 8,000 users.
   <br>・ 
   <a href="https://discord.watch">Discord.Watch,
   </a>I'm helping to create the next version of the website.
