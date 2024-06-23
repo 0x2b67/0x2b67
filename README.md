@@ -23,15 +23,15 @@
 <h2 align="left">My Projects ☄️
 </h2>
 <p align="left">・ 
-  <a href="https://daily-music.xyz">Daily Music
-  </a>, my first Discord bot, used on 730 servers by over 215,000 users.
+  <a href="https://daily-music.xyz">Daily Music,
+  </a>my first Discord bot, used on 730 servers by over 215,000 users.
   <br>・ 
-  <a href="https://top.gg/bot/1247269790993879200">My UFC
-  </a>, my second Discord bot, used on 50 servers by over 7,000 users.
+  <a href="https://top.gg/bot/1247269790993879200">My UFC,
+  </a>my second Discord bot, used on 50 servers by over 7,000 users.
   <br>・ 
-  <a href="https://discord.watch">Discord.Watch
-  </a>, I'm helping to create the next version of the website.
+  <a href="https://discord.watch">Discord.Watch,
+  </a>I'm helping to create the next version of the website.
   <br>・ 
-  <a href="https://github.com/Discord-AntiScam">The DSP Project
-  </a>, I'm conducting scam investigations and preventing scams on Discord.
+  <a href="https://github.com/Discord-AntiScam">The DSP Project,
+  </a>I'm conducting scam investigations and preventing scams on Discord.
 </p>
