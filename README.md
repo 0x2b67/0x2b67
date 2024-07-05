@@ -1,4 +1,4 @@
-<h1 align="left">Bonjour / Hi!👋🏻 I'm arceus.
+<h1 align="left">Bonjour / Hi!👋🏻 I'm Arceus.
 </h1>
 <p align="left">A young developer who lives in Canada 🇨🇦 and dabbles in a bit of everything.
 </p>
