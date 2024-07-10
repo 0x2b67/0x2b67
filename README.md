@@ -30,7 +30,7 @@
   </a>my second Discord bot, used on 80 servers by over 8,000 users.
   <br>・ 
   <a href="https://discord.watch">Discord.Watch,
-  </a>I'm helping to create the next version of the website.
+  </a>I'm helping to create the next version of the website by doing beta-testing.
   <br>・ 
   <a href="https://github.com/Discord-AntiScam">The DSP Project,
   </a>I'm conducting scam investigations and preventing scams on Discord.
