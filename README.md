@@ -24,10 +24,10 @@
 </h2>
 <p align="left">・ 
   <a href="https://daily-music.xyz">Daily Music,
-  </a>my first Discord bot, used on 800 servers by over 220,000 users.
+  </a>my first Discord bot, used on 820 servers by over 221,000 users.
   <br>・ 
   <a href="https://top.gg/bot/1247269790993879200">My UFC,
-  </a>my second Discord bot, used on 140 servers by over 8,000 users.
+  </a>my second Discord bot, used on 160 servers by over 22,000 users.
   <br>・ 
   <a href="https://discord.watch">Discord.Watch,
   </a>I'm helping to create the next version of the website by doing beta-testing.
