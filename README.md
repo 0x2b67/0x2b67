@@ -1,6 +1,6 @@
 <h1 align="left">Bonjour / Hi!👋🏻 I'm Arceus.
 </h1>
-<p align="left">A young developer who lives in Canada 🇨🇦 and dabbles in a bit of everything.
+<p align="left">A young developer who dabbles in a bit of everything.
 </p>
 <h2 align="left">About Me  📝
 </h2>
