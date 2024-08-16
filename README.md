@@ -1,15 +1,14 @@
 <h1 align="left">Bonjour / Hi!👋🏻 I'm Arceus.
 </h1>
-<p align="left">A young developer who dabbles in a bit of everything.
+<p align="left"> I'm a young developer with a focus on backend development, mainly working with JavaScript and Python for my projects.
 </p>
 <h2 align="left">About Me  📝
 </h2>
-<p align="left">I started writing my first lines of code in 2020, but I've only really started getting interested since the summer of 2023.
-  <br>I mainly use JavaScript and Python, but I also have some knowledge of C.
-  <br>Since the summer of 2023, I've been spending a lot of time coding my own Discord bot, 
+<p align="left">I began coding in 2020, but I really started in the summer of 2023. 
+  <br>Since then, I've dedicated a lot of time to building my own Discord app,
   <a href="https://daily-music.xyz">Daily Music.
   </a>
-  <br>I speak both 🇫🇷 and 🇬🇧 fluently, and also some 🇪🇸
+  <br>I’m fluent in both 🇫🇷 and 🇬🇧, and I also speak some 🇪🇸
 </p>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
