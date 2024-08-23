@@ -5,7 +5,7 @@ I'm a young developer with a focus on [backend development](https://en.wikipedia
 <br />Most of my repositories are private, but if you're interested you'll find a list of my projects below! ⬇️
 ## About Me 📒
 I began coding in 2020, but I really started in the summer of 2023.
-<br />Since then, I've dedicated a lot of time to building my own Discord app, Daily Music.
+<br />Since then, I've dedicated a lot of time to building my own Discord app, [Daily Music](https://daily-music.xyz).
 <br />I'm fluent in both 🇫🇷 and 🇬🇧, and I also speak some 🇪🇸.
 ## My Projects 🔥
 - I own [Daily Music](https://daily-music.xyz), a Discord app offering songs recommendations, challenges, and events to keep your community engaged.
