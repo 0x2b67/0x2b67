@@ -8,7 +8,7 @@ I began coding in 2020, but I really started in the summer of 2023.
 <br />Since then, I've dedicated a lot of time to building my own Discord app, Daily Music.
 <br />I'm fluent in both 🇫🇷 and 🇬🇧, and I also speak some 🇪🇸.
 ## My Projects 🔥
-- I own [Daily Music](https://daily-music.xyz), a Discord app offering songs recommendations, challenges, and historical events to keep your community engaged.
+- I own [Daily Music](https://daily-music.xyz), a Discord app offering songs recommendations, challenges, and events to keep your community engaged.
 - I own [My UFC](https://top.gg/bot/1247269790993879200/), a Discord app notifying users when a UFC event is starting.
-- I'm helping in the development (beta-testing) of the new version of [Discord.Watch](https://discord.watch), a ranking website for Discord apps with detailed stats.
+- I'm helping in the development (beta-testing) of the new version of [Discord.Watch](https://discord.watch), a ranking website for Discord apps with stats.
 - I'm conducting scam investings for [The DSP Project](https://dsp-project.glitch.me/), a project aiming to clean Discord of scams and other dangers.
