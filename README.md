@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/Hi2NE0Q.jpeg"/>
 
-# Salut / Hey! 👋🏻 I'm Arceus
+# Salut / Hey! 👋🏻 I'm Arceus.
 I'm a young developer with a focus on [backend development](https://en.wikipedia.org/wiki/Frontend_and_backend), mainly working with [JavaScript](https://en.wikipedia.org/wiki/JavaScript) and [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) for my projects.
 <br />Most of my repositories are private, but if you're interested you'll find a list of my projects below! ⬇️
 ## About Me 📒
